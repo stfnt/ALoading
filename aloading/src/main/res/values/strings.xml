@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aloading</string>
+    <string name="loading">loading</string>
+    <string name="load_failed">load_failed</string>
+    <string name="start">start</string>
+</resources>
